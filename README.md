@@ -1,3 +1,6 @@
+# DEPRECATED
+Player chimes was moved into our toolkit which you can find [here](https://github.com/UdonVR/UdonVR-Toolkit/releases)
+
 # PlayerChimes
 Player Join/Leave sounds
 
